@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
 s.name         = "LPFilterMenuView"
-s.version      = "1.0.2"
+s.version      = "1.0.3"
 s.summary      = "LPFilterMenuView"
 s.description  = "awesome! LPFilterMenuView"
 s.homepage     = "https://github.com/jprothwell/LPFilterMenuView"
